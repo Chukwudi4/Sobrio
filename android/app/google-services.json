@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "763342324681",
+    "firebase_url": "https://kaamru-ec015.firebaseio.com",
+    "project_id": "kaamru-ec015",
+    "storage_bucket": "kaamru-ec015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763342324681:android:2a85e5d001a08cbe8a5e18",
+        "android_client_info": {
+          "package_name": "com.addictive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763342324681-petgvkkeltcfi9qmgr8um8ohak81l953.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5DAhWL11clo28E2iCet5HjoMXod-fyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763342324681-petgvkkeltcfi9qmgr8um8ohak81l953.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763342324681-pbvjknlgs6clvsf3llsju07nkjmmeevi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaamru"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763342324681:android:b4c17d5f088086498a5e18",
+        "android_client_info": {
+          "package_name": "com.sudoapp.sobrio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763342324681-petgvkkeltcfi9qmgr8um8ohak81l953.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5DAhWL11clo28E2iCet5HjoMXod-fyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763342324681-petgvkkeltcfi9qmgr8um8ohak81l953.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763342324681-pbvjknlgs6clvsf3llsju07nkjmmeevi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kaamru"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
